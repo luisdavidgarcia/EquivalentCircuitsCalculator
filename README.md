@@ -1,4 +1,7 @@
-<h1> EquivalentCircuitsCalculator </h1>
+<h1> 
+EquivalentCircuitsCalculator 
+</h1>
+
 A C++ program that enables the user to combine resistors or capacitors in series and parallel, when solving for equivalent circuits, without the need of having to open a calcualtor or write out any lengthy expressions. 
 
 <h2> How to Compile </h2>
