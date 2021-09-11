@@ -1,13 +1,18 @@
-<h1> 
-EquivalentCircuitsCalculator 
-</h1>
+<h1> EquivalentCircuitsCalculator </h1>
 
-<img src="Images/EqCircuitCalcTest.png">
+<figure>
+  <img src="Images/EqCircuitCalcTest.png">
+  <figcaption>Demonstration of the Program Working as Intended</figcaption>
+</figure>
 
-A C++ program that enables the user to combine resistors or capacitors in series and parallel, when solving for equivalent circuits, without the need of having to open a calcualtor or write out any lengthy expressions. 
+Here is a C++ CLI program that enables the user to combine resistors or capacitors in series and parallel, when solving for equivalent circuits, without the need of having to open a calcualtor or write out any lengthy expressions. 
 
-<h2> How to Compile </h2>
-Use g++ to compile the main.cpp script, such as "g++ main.cpp" and then start the program by entering "./a.out" or any other name you gave your compiled file.
-If you are using an IDE there is likely no need to compile just run the file as you normally would in the directory that you save programs/scripts on.
+<h2> How to Compile in Terminal</h2>
+<ul>
+  <li>Run <code>g++ main.cpp</code> </li>
+  <li>Run <code>./a.out</code> to start program </li>
+  <li>Answer the questions that pop up and enter your values to combine the resistors or capacitors </li>
+</ul>
 
-Thank you for checking the project and enjoy. 
+
+Thank you for your interest in the project and enjoy. 
