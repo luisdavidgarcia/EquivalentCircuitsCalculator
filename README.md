@@ -32,6 +32,8 @@ are across components and what currents flow through them. Moreover, the method 
 circuits requires simplifying resistors with two techniques referred to as combing resistors 
 in series and parallel. Combining resistors in series is simple since the expression is only 
 the summation of two resistors as seen in Figure 1 below.
+
+<br>
 <br>
 <figure>
   <img src="https://d2vlcm61l7u1fs.cloudfront.net/media%2Fcf8%2Fcf8733bf-658f-412c-9d1d-720ea5dea2a8%2FphpxSz1zw.png">
