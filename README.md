@@ -2,7 +2,7 @@
 
 <figure>
   <img src="Images/EqCircuitCalcTest.png">
-  <figcaption>Demonstration of the Program Working as Intended</figcaption>
+  <figcaption style="color:grey;padding: 2px; text-aling:center;">Demonstration of the Program Working as Intended</figcaption>
 </figure>
 
 Here is a C++ CLI program that enables the user to combine resistors or capacitors in series 
@@ -38,7 +38,7 @@ the summation of two resistors as seen in Figure 1 below.
 <figure>
   <center>
   <img src="https://d2vlcm61l7u1fs.cloudfront.net/media%2Fcf8%2Fcf8733bf-658f-412c-9d1d-720ea5dea2a8%2FphpxSz1zw.png">
-  <figcaption>Illustration of calculations integrated into the program </figcaption>
+  <figcaption style="color:grey;padding: 2px; text-aling:center;">Illustration of calculations integrated into the program </figcaption>
   </center>
 </figure>
 
