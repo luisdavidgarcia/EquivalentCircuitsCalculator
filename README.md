@@ -35,10 +35,12 @@ the summation of two resistors as seen in Figure 1 below.
 
 <br>
 <br>
+<center>
 <figure>
   <img src="https://d2vlcm61l7u1fs.cloudfront.net/media%2Fcf8%2Fcf8733bf-658f-412c-9d1d-720ea5dea2a8%2FphpxSz1zw.png">
   <figcaption>Illustration of calculations integrated into the program </figcaption>
 </figure>
+</center>
 
 However for combing resistors in parallel the expression is more complex as seen in figure 2, 
 so to save time from having to input these equations in the calculator I just made a C++ 
