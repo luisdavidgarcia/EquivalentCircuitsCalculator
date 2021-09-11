@@ -2,6 +2,8 @@
 EquivalentCircuitsCalculator 
 </h1>
 
+<img src="Images/EqCircuitCalcTest.png">
+
 A C++ program that enables the user to combine resistors or capacitors in series and parallel, when solving for equivalent circuits, without the need of having to open a calcualtor or write out any lengthy expressions. 
 
 <h2> How to Compile </h2>
