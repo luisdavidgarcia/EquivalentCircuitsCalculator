@@ -1,5 +1,9 @@
 <h1> EquivalentCircuitsCalculator </h1>
 
+Here is a C++ CLI program that enables the user to combine resistors or capacitors in series 
+and parallel, when solving for equivalent circuits, without the need of having to open a 
+calcualtor or write out any lengthy expressions. 
+
 <figure>
   <img src="Images/EqCircuitCalcTest.png">
   <figcaption style="font-style: italic; color:gray;padding: 2px; text-aling:center;">Demonstration of the Program Working as Intended</figcaption>
@@ -7,9 +11,6 @@
 <br>
 <br>
 
-Here is a C++ CLI program that enables the user to combine resistors or capacitors in series 
-and parallel, when solving for equivalent circuits, without the need of having to open a 
-calcualtor or write out any lengthy expressions. 
 
 <h2> How to Compile and Run in the Terminal</h2>
 <ul>
