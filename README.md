@@ -11,7 +11,7 @@ Here is a C++ CLI program that enables the user to combine resistors or capacito
 and parallel, when solving for equivalent circuits, without the need of having to open a 
 calcualtor or write out any lengthy expressions. 
 
-<h2> How to Compile in Terminal</h2>
+<h2> How to Compile and Run in the Terminal</h2>
 <ul>
   <li>Run <code>g++ main.cpp</code> </li>
   <li>Run <code>./a.out</code> to start program </li>
@@ -23,9 +23,11 @@ calcualtor or write out any lengthy expressions.
     Combine as many resistors and capacitors as you wish since the program persists until you type 
     &quot n &quot
   </li>
+  <li>
+    Thank you for your interest in the project and enjoy.
+   </li> 
 </ul>
 
-Thank you for your interest in the project and enjoy.
 
 <h3>Motivation for the Program</h3>
 For both my electromagnetism physics course and circuits 1 course there’s a method of 
