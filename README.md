@@ -2,8 +2,10 @@
 
 <figure>
   <img src="Images/EqCircuitCalcTest.png">
-  <figcaption style="color:grey;padding: 2px; text-aling:center;">Demonstration of the Program Working as Intended</figcaption>
+  <figcaption style="font-style: italic; color:gray;padding: 2px; text-aling:center;">Demonstration of the Program Working as Intended</figcaption>
 </figure>
+<br>
+<br>
 
 Here is a C++ CLI program that enables the user to combine resistors or capacitors in series 
 and parallel, when solving for equivalent circuits, without the need of having to open a 
@@ -38,9 +40,11 @@ the summation of two resistors as seen in Figure 1 below.
 <figure>
   <center>
   <img src="https://d2vlcm61l7u1fs.cloudfront.net/media%2Fcf8%2Fcf8733bf-658f-412c-9d1d-720ea5dea2a8%2FphpxSz1zw.png">
-  <figcaption style="color:grey;padding: 2px; text-aling:center;">Illustration of calculations integrated into the program </figcaption>
+  <figcaption style="font-style:italic; color:grey;padding: 2px; text-aling:center;">Illustration of calculations integrated into the program </figcaption>
   </center>
 </figure>
+<br>
+<br>
 
 However for combing resistors in parallel the expression is more complex as seen in figure 2, 
 so to save time from having to input these equations in the calculator I just made a C++ 
