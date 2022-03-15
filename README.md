@@ -54,7 +54,7 @@ However for combing resistors in parallel the expression is more complex as seen
 so to save time from having to input these equations in the calculator I just made a C++ 
 program to simplify them with only inputting the resistance of resistors. 
 
-Also I made the calculator simplify inductors (which have the same equations as inductors) and capacitors since the process is similar except the equations are switched so capacitors in parallel is the same as combing resistors in series and vice versa. 
+Also I made the calculator simplify inductors (which have the same equations as resistors) and capacitors. However for capacitors the equations are switched so capacitors in parallel is the same as combing resistors in series and vice versa. 
 
 Lastly, since I do not want constantly run ./a.out to simplify components I just made while 
 loop to ask me if I want to continue simplifying components.
