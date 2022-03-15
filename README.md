@@ -24,9 +24,6 @@ calcualtor or write out any lengthy expressions.
     Combine as many resistors and capacitors as you wish since the program persists until you type 
     &quot n &quot
   </li>
-  <li>
-    Thank you for your interest in the project and enjoy.
-   </li> 
 </ul>
 
 
